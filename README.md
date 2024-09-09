@@ -10,7 +10,7 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Meu Repositório de Resoluções dos Des
 |   ✅   |   02    | Jordan Shoes  | [Visitar](https://jordan-shoes-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/jordan-shoes-codelab)  |
 |   ✅   |   03    | Tech Blog  | [Visitar](https://techblog-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/techblog-codelab)  |
 |   ✅   |   04    | Login  | [Visitar](https://login-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/login-codelab)  |
-|   ✅   |   05    | Studio Ghibli  | [Visitar](https://codelab-studio-ghibli.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/studio-gihibli-codelab)  |
+|   ✅   |   05    | Studio Ghibli  | [Visitar](https://codelab-studio-ghibli.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/studio-ghibli-codelab)  |
 
 ### Agradecimentos 🙏
 
